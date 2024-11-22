@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773715600348",
+    "project_id": "unicv-chat-5-semestre",
+    "storage_bucket": "unicv-chat-5-semestre.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773715600348:android:8aff38f2ce14f42644a519",
+        "android_client_info": {
+          "package_name": "com.unicvChat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN0e_RtTlCG9Cd_kAIBb4f8fJKKgyEh7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773715600348:android:070db6a78ce3371444a519",
+        "android_client_info": {
+          "package_name": "com.xxxx.xxxxxx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN0e_RtTlCG9Cd_kAIBb4f8fJKKgyEh7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
